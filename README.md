@@ -22,4 +22,4 @@ Analyze online shopping behavior and predict purchase completion using supervise
 The model predicts whether a customer is likely to complete a purchase based on their online shopping session behavior.
 
 ## Project Type
-**Academic Project — Cloud Computing and Big Data**
+**Academic Project**
